@@ -1,5 +1,5 @@
 
-Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, meu nome é Kelvin Campos!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1978A1&size=38&center=true&vCenter=true&width=1000&lines=Opa,+tudo+bom?!+Meu+nome+%C3%A9+Kelvin.;Mas+pode+me+chamar+de+Devon.;Seja+bem+vindo!!+:%29)](https://git.io/typing-svg)
 ==========================
 
 * 😄  Tenho 24 anos

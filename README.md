@@ -1,16 +1,28 @@
-### Hi there 👋
+Olá 👋 Meu nome é Kelvin Campos!
+==========================
 
-<!--
-**Devon-Us/Devon-Us** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Software Developer
+-----------------------------
 
-Here are some ideas to get you started:
+* 😄  Tenho 24 anos
+* 🌍  Sou nascido e criado no interior de São Paulo, Brasil. 
+* ✉️  Você pode me contatar pelo [kelvin_campos@ymail.com](mailto:kelvin_campos@ymail.com)
+* 🧠  Estou estudando C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Devon-Us?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+
+### Linguagens
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%23-3776AB?style=for-the-badge&logo=c-sharp&logoColor=white" width="36" height="36" alt="Javascript" /></a>
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/661437172699889684" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/guilhermo-masid-494677b8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/13367336/guilhermo-masid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UCTF5MfUsa-9dFCOHFTA9xzw" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Devon-Us"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=Devon-Us&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="peguimasid's GitHub stats" /></a>

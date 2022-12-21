@@ -1,5 +1,5 @@
 
-Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">,Meu nome é Kelvin Campos!
+Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, meu nome é Kelvin Campos!
 ==========================
 
 * 😄  Tenho 24 anos

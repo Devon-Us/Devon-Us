@@ -4,7 +4,7 @@
 
 * 😄  Tenho 24 anos
 * 🌍  Sou nascido e criado no interior de São Paulo, Brasil. 
-* 🧠  Desenvolvedor backend .Net | C#
+* 🧠  Desenvolvedor Backend .Net | C#
 * ✉️  Você pode me contatar pelo [kelvin_campos@ymail.com](mailto:kelvin_campos@ymail.com)
 
 <a href="https://www.github.com/Devon-Us" target="_blank" rel="noreferrer"><img
